@@ -31,6 +31,9 @@ The repository is organized into several subdirectories, each focusing on a spec
 11. [Essentials of LLMs](https://github.com/NebulaTris/MLE_Guide/tree/master/Essentials-of-LLMs)
    - This directory covers large language models, including their architecture, training, and applications.
 
+12. [Books](https://github.com/NebulaTris/MLE_Guide/tree/master/Books)
+   - This directory contains a list of recommended books on machine learning and deep learning.
+
 ### Scope for Expansion
 -------------------------
 
