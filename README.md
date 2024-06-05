@@ -10,21 +10,21 @@ The repository is organized into several subdirectories, each focusing on a spec
 
 1. [ML for SWE](https://github.com/NebulaTris/MLE_Guide/tree/master/ML-for-SWE)
    - This directory provides an introduction to machine learning concepts and their applications in software engineering.
-2. [Intro to Deep Learning & Neural Networks](https://github.com/NebulaTris/MLE_Guide/tree/master/Intro-to-Deep-Learning--Neural-Networks)
+2. [Intro to Deep Learning & Neural Networks](https://github.com/NebulaTris/MLE_Guide/tree/master/Intro-to-Deep-Learning-Neural-Networks)
    - This section covers the fundamentals of deep learning and neural networks, including the basics of neural networks, backpropagation, and optimization techniques.
 3. [Beginner's Guide to Deep Learning](https://github.com/NebulaTris/MLE_Guide/tree/master/Beginners-Guide-to-Deep-Learning)
    - This directory is designed for those new to deep learning, covering topics such as convolutional neural networks, recurrent neural networks, and transfer learning.
 4. [Deep Learning with PyTorch](https://github.com/NebulaTris/MLE_Guide/tree/master/Deep-Learning-with-PyTorch)
    - This section focuses on using PyTorch for deep learning tasks, including building and training neural networks.
-5. [Building Advanced Deep Learning & NLP Projects](https://github.com/NebulaTris/MLE_Guide/tree/master/Building-Advanced-Deep-Learning--NLP-Projects)
+5. [Building Advanced Deep Learning & NLP Projects](https://github.com/NebulaTris/MLE_Guide/tree/master/Building-Advanced-Deep-Learning-NLP-Projects)
    - This directory covers advanced topics in deep learning and NLP, including attention mechanisms, transformers, and generative models.
 6. [Image Recognition with ML](https://github.com/NebulaTris/MLE_Guide/tree/master/Image-Recognition-with-ML)
    - This section explores image recognition techniques using machine learning, including convolutional neural networks and object detection.
 7. [NLP with ML](https://github.com/NebulaTris/MLE_Guide/tree/master/NLP-with-ML)
    - This directory covers natural language processing techniques using machine learning, including text classification, sentiment analysis, and language models.
-8. [Applied ML: DL for Industry](https://github.com/NebulaTris/MLE_Guide/tree/master/Applied-ML--DL-for-Industry)
+8. [Applied ML: DL for Industry](https://github.com/NebulaTris/MLE_Guide/tree/master/Applied-ML-DL-for-Industry)
    - This section applies deep learning concepts to real-world industry problems, including computer vision, speech recognition, and recommender systems.
-9. [Applied ML: Industry Case Study](https://github.com/NebulaTris/MLE_Guide/tree/master/Applied-ML--Industry-Case-Study)
+9. [Applied ML: Industry Case Study](https://github.com/NebulaTris/MLE_Guide/tree/master/Applied-ML-Industry-Case-Study)
    - This directory provides case studies of machine learning applications in various industries, including healthcare, finance, and e-commerce.
 10. [ML Interview Prep](https://github.com/NebulaTris/MLE_Guide/tree/master/ML-Interview-Prep)
    - This section offers resources and practice materials to help prepare for machine learning interviews.
